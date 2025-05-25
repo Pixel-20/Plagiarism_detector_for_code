@@ -1,0 +1,14 @@
+
+!src/
+src/*
+!src/Samples/
+!src/Samples/**
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+.virtual_documents/
+
+plagiarism_results/
+
+plagiarism_detector.log
